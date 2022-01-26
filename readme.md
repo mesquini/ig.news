@@ -10,10 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://pokedex-mesquini.netlify.com/" title="Pokedex" target="_blank">
+  <a href="https://ignews-mesquini.netlify.com/" title="IgNews" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/mesquini/image/upload/v1580130380/demo_on_netlify_bbuvjz_gfadtn.png">
   </a>
 </p>
+
 ## :rocket: Technologies
 
 This project was developed to studying NextJS, Prismic, FaunaDB, NextAuth with the following technologies:
